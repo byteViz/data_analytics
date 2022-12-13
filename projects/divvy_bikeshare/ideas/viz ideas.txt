@@ -1,0 +1,16 @@
+split tables according to member type
+do comparision 
+	- ride duration (avg men median)								- bar graph for avg ride time
+	- ridable type comparision 								- bar graph with multi variable
+	- type of membership to start location (do i see a cycle near my home)		- 
+	- using lat long ascending order distance from city core to vizualize trend line 	-
+	- end station with some corellation to location like universities 			-
+	
+
+idea 1. 
+
+station_start_membership dataset
+
+Adier planetarium has more casual members than annual members 
+a reward point based system which gives more rewards (1X, 2X, 3X )when starting ride from this planetarium to members. thereby encouraging more casual members to have an incetive to become a member. 
+and also the marketing ads are to be placed in and around places with more casual ride starting points. 

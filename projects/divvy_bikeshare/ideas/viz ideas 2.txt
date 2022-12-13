@@ -1,0 +1,6 @@
+Everybody Loves An Outlaw - I See Red
+Glass Animals - Heat Waves 
+
+split the dataset into casual riders members 
+Time of day analysis 
+week day analysis 
